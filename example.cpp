@@ -1,6 +1,7 @@
 #include <vector>
 #include <random>
 #include "cluster.h";
+
 int main() {
     std::vector<std::vector<float>> inputs;
     std::random_device rnd;
